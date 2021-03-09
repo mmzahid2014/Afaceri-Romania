@@ -1,0 +1,552 @@
+@media (min-width:992px) and (max-width:1199px){
+  #banner .overlay ul li{
+    margin: 0px;
+  }
+  
+  #search_bar .left #search{
+    font-size: 12px;
+    padding-left: 40px;
+  }
+  
+  #search_bar .left i{
+    top: 30px;
+    left: 12px;
+  }
+  
+  #search_bar .right #one{
+    font-size: 12px;
+    padding-left: 5px;
+  }
+  
+  #result .left_menu_top h3{
+    font-size: 12px;
+  }
+  
+  #result .searchmain .searchmain_top .left h3{
+    font-size: 12px;
+  }
+  
+  #result .searchmain .searchmain_top .right h3{
+    font-size: 12px;
+  }
+  
+  #result .searchmain .searchmain_top .right #count{
+    margin: 6px 24px 6px 0px;
+  }
+  
+  #result .ad .ad__main__top h3{
+    font-size: 12px;
+  }
+  
+  #result .searchmain .finalresult .finalbox .desbox .textdiv .contact{
+    width: 96%;
+  }
+  
+  #result .leftmenu ul li a{
+    font-size: 12px;
+  }
+  
+  #result .index{
+    padding-bottom: 9px;
+  }
+  #result .index .index__top h3{
+    font-size: 12px;
+  }
+  
+  #result .index ul{
+    margin: 10px 0px 0px 10px;
+  }
+  
+  #result .index ul li{
+    margin: 0px 19px 4px 0px;
+  }
+  
+  #result .index ul li a{    
+    font-size: 12px;
+    width: 20px;
+    height: 20px;
+  }
+  
+  #result .searchmain .page__number{
+    width: 57%;
+    margin: 24px auto 5px;
+  }
+  
+  #footer .menu__one li a{
+    font-size: 12px;
+  }
+  
+  #footer .menu__two li a{
+    font-size: 12px;
+  }
+  
+  #footer .menu__three li a{
+    font-size: 12px;
+  }
+}
+
+@media (min-width:768px) and (max-width:991px){
+    #banner .overlay{
+        padding-bottom: 40px;
+  }
+    #banner .overlay .logo img{
+        width: 30%;
+  }
+  
+    #banner .overlay ul{
+      margin-top: 40px !important;
+  }
+  
+    #banner .overlay ul li{
+      line-height: 30px;
+  }
+  
+    #search_bar .left #search{
+      margin-bottom: 0px;
+  }
+    
+  #result{
+    margin-top: 40px;
+  }
+  
+  #result .searchmain{
+  margin-bottom: 40px;
+  }
+  
+  #result .searchmain .page__number{
+  margin: 40px auto 30px;
+  }
+  
+  #result .ad .ad__main__top h3{
+    text-align: center;
+  }
+  
+  #result .ad{
+    margin-bottom: 40px;
+  }
+  
+  #result .left_menu_top h3{
+    text-align: center;
+  }
+  
+  #result .leftmenu{
+    margin-bottom: 40px;
+  }
+  
+  #result .leftmenu ul{
+    text-align: center;
+  }
+  
+  #result .index .index__top h3{
+    text-align: center;
+  }
+  
+  #footer .logo{
+    text-align: center;
+  }
+  
+  #footer .logo img{
+    width: 40%;
+  }
+  
+  #footer .subscribe h4{
+    text-align: center;
+    margin: 20px 0px;
+  }
+  
+  #footer .subscribe .sub__box{
+    width: 70%;
+    margin: 0px auto 30px;
+  }
+  
+  #footer .menu__one{
+    text-align: center;
+  }
+  
+  #footer .menu__two{
+    text-align: center;
+  }
+  
+  #footer .menu__three{
+    text-align: center;
+  }
+  
+  #footer .footer_btm p{
+    font-size: 10px;
+  }
+  
+}
+
+
+@media (min-width:576px) and (max-width:767px){
+    #banner .overlay{
+        padding-bottom: 40px;
+  }
+    #banner .overlay .logo img{
+        width: 30%;
+  }
+  
+    #banner .overlay ul{
+      margin-top: 40px !important;
+  }
+  
+    #banner .overlay ul li{
+      line-height: 30px;
+  }
+  
+    #search_bar .left #search{
+      margin-bottom: 0px;
+  }
+    
+  #result{
+    margin-top: 40px;
+  }
+  
+  #result .searchmain{
+    margin-bottom: 40px;
+  }
+  
+  #result .searchmain .page__number{
+    margin: 40px auto 30px;
+    width: 60%;
+  }
+  
+  #result .ad .ad__main__top h3{
+    text-align: center;
+  }
+  
+  #result .ad{
+    margin-bottom: 40px;
+  }
+  
+  #result .left_menu_top h3{
+    text-align: center;
+  }
+  
+  #result .leftmenu{
+    margin-bottom: 40px;
+  }
+  
+  #result .leftmenu ul{
+    text-align: center;
+  }
+  
+  #result .index .index__top h3{
+    text-align: center;
+  }
+  
+  #footer .logo{
+    text-align: center;
+  }
+  
+  #footer .logo img{
+    width: 40%;
+  }
+  
+  #footer .subscribe h4{
+    text-align: center;
+    margin: 20px 0px;
+  }
+  
+  #footer .subscribe .sub__box{
+    width: 70%;
+    margin: 0px auto 30px;
+  }
+  
+  #footer .menu__one{
+    text-align: center;
+  }
+  
+  #footer .menu__two{
+    text-align: center;
+  }
+  
+  #footer .menu__three{
+    text-align: center;
+  }
+  
+  #footer .footer_btm p{
+    font-size: 10px;
+    width: 80%;
+    margin: 0 auto;
+  }
+  
+}
+
+@media (min-width:320px) and (max-width:575px){
+  #topbar .left i{
+    font-size: 12px;
+    margin: 3px 10px 0px 0px;
+  }
+  
+  #topbar .left p{
+    font-size: 12px;
+  }
+  
+  #topbar .right ul li a{
+    font-size: 12px;
+    margin-left: 12px;
+  }
+  
+  #topbar .right {
+    margin-top: 4px;
+  }
+  
+  #banner{
+    position: relative;
+  }
+  
+  #banner .overlay{
+    padding-bottom: 40px;
+  }
+  
+  #banner .overlay .logo{
+    text-align: left;
+  }
+  
+  #banner .overlay .logo img{
+    width: 50%;
+  }
+  
+  #banner .overlay .menu__icon{
+    display: block;
+  }
+  
+  #banner .overlay .viewport{
+    position: absolute;
+    background: #000000c9;
+    width: 100vw;
+    height: 100vh;
+    z-index: 1;
+    top: 0px;
+    left: 0px;
+    display: none;
+  }
+  
+  #banner .overlay .viewport ul li{
+    display: block;    
+    line-height: 30px;
+  }
+  
+  #banner .overlay .viewport .cross__icon{
+    color: #fff;
+    text-align: center;
+    margin-top: 30px; 
+    font-size: 25px;
+  }
+  
+  #search_bar .left #search{
+    height: 35px;
+    font-size: 12px;
+    padding-left: 30px;
+    margin-bottom: 0px;
+  }
+  
+  #search_bar .left i{
+    font-size: 16px;
+    top: 25px;
+    left: 10px;
+  }
+  
+  #search_bar .right{
+    display: block;
+  }
+  
+  #search_bar .right .box1{
+    width: 100%;
+  }
+  
+  #search_bar .right .box1::before{
+    right: 5%;
+  }
+  
+  #search_bar .right .box2::before{
+    right: 5%;
+  }
+  
+  #search_bar .right .box2{
+    width: 100%;
+  }
+    
+  #search_bar .right #one{
+    font-size: 12px;
+    padding-left: 5px;
+    height: 35px;
+    margin-bottom: 0px;
+  }
+  
+  #search_bar .right #submit{
+    width: 100%;
+    height: 35px;
+    font-size: 18px;
+  }
+  
+  #result{
+    margin-top: 30px; 
+  }
+  
+  #result .searchmain{
+    margin-bottom: 40px;
+    padding-bottom: 1px;
+  }
+  
+  #result .searchmain .searchmain_top{
+    display: block;
+  }
+  
+  #result .searchmain .searchmain_top .left{
+    width: 100%;
+    text-align: center;
+    padding-top: 10px;
+  }
+  
+  #result .searchmain .searchmain_top .left h3{
+    margin: 0px auto 10px;
+    font-size: 12px
+  }
+  
+  #result .searchmain .searchmain_top .right{
+    width: 100%;
+    text-align: center;
+    padding-bottom: 10px;
+  }
+  
+  #result .searchmain .searchmain_top .right h3{
+    font-size: 12px;
+    margin: 0;
+  }
+  
+  #result .searchmain .searchmain_top .right #count{
+    margin: 0;
+  }
+  
+  #result .searchmain .finalresult{
+    padding-bottom: 40px;
+    padding-top: 10px;
+  }
+  
+  #result .searchmain .finalresult .finalbox h2{
+    font-size: 14px;
+  }
+  #result .searchmain .finalresult .finalbox{
+    width: 90%;
+  }
+  
+  #result .searchmain .finalresult .finalbox .desbox{
+    display: block;
+  }
+  
+  #result .searchmain .finalresult .finalbox .desbox .imgdiv{
+    margin: 0px auto 10px;
+  }
+  
+  #result .searchmain .finalresult .finalbox .desbox .textdiv{
+    width: 100%;
+    padding: 0;
+  }
+  
+  #result .searchmain .finalresult .finalbox .first_para{
+    margin: 12px 0px 10px 0px;
+  }
+  
+  #result .searchmain .finalresult .finalbox .desbox .textdiv .contact{
+    bottom: -30px;
+    Width: 100%; 
+  }
+  
+  #result .searchmain .page__number{
+    width: 88%; 
+  }
+  
+  #result .searchmain .page__number ul{
+    
+  margin: 2px 10px;
+  }
+  
+  #result .searchmain .page__number ul li a{
+    font-size: 12px;
+    width: 16px;
+    height: 16px;
+    line-height: 14px;
+  }
+  
+  #result .ad{
+    margin-bottom: 30px;
+  }
+    
+  #result .left_menu_top h3{
+    text-align: center;
+  }
+    
+  #result .leftmenu ul{
+    text-align: center;
+  }
+  
+  #result .index .index__top h3{
+    text-align: center;
+  }
+  
+  #footer{
+    padding-top: 40px;
+  }
+  
+  #footer .logo{
+    text-align: center;
+  }
+  
+  #footer img{
+    width: 50%;
+  }
+  
+  #footer .icon{
+    margin-top: 20px;
+  }
+  
+  #footer .subscribe h4{
+    text-align: center;
+    margin-top: 15px;
+    font-size: 14px;
+    font-weight: 600;
+  }
+  
+  #footer .subscribe .sub__box{
+    width: 90%;
+    margin: 0 auto;
+  }
+  
+  #footer .subscribe .sub__box{
+    margin-bottom: 15px;   
+  }
+  
+  #footer .subscribe .sub__box #email{
+    font-size: 14px;
+  }
+  #footer .subscribe .sub__box #subscrie{
+    font-size: 14px;
+  }
+  
+  #footer .menu__one{
+    text-align: center;
+  }
+  
+  #footer .menu__two{
+    text-align: center;
+  }
+  
+  #footer .menu__three{
+    text-align: center;
+  }
+  
+  #footer .footer_btm{
+    margin-top: 30px;
+    padding: 15px;
+  }
+}
+
+  
+
+
+
+
+
+
